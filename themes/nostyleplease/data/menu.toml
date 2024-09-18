@@ -1,0 +1,26 @@
+[[entries]]
+title = "info"
+
+  [[entries.entries]]
+  title = "blog post on eBPF. Find posts about tools we developped, documentations and new features."
+
+  [[entries.entries]]
+  title = "github repo"
+  url = "https://github.com/bpBPF"
+
+  [[entries.entries]]
+  title = "maintained by <a href='https://github.com/0sx86'>0sx86</a> and <a href='https://github.com/0xkohi'>0xkohi</a>"
+
+[[entries]]
+title = "all posts"
+
+  [entries.post_list]
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "/posts"
+
+[[entries]]
+title = "interesting docs"
+
+  [[entries.entries]]
+  title = " <a href='https://ebpf.io'>ebpf.io</a>"
