@@ -24,3 +24,9 @@ title = "interesting docs"
 
   [[entries.entries]]
   title = " <a href='https://ebpf.io'>ebpf.io</a>"
+
+  [[entries.entries]]
+  title = "<a href='https://redcanary.com/blog/threat-detection/ebpf-malware/'>A new frontier for malware</a>"
+
+  [[entries.entries]]
+  title = "<a href='https://github.com/Dacodac/eBPF/blob/main/Learning-eBPF%20-%20Full%20book.pdf'>Learning book</a>"
